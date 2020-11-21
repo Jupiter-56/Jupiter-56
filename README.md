@@ -12,7 +12,7 @@ I'm a French student. I learn to program on my own with online lesson like Youtu
 
 - 💬 Ask me about anything [here](https://github.com/jupiter-56/Jupiter-56/issues)
 
-**Languages and Tools**
+**Languages and Tools :**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
