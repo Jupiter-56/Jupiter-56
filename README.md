@@ -1,5 +1,10 @@
-### Hi, I'm [Jupiter_56!](https://github.com/Jupiter-56) 👋
+<br/>
+<br/>
 
+### Hi, I'm [Jupiter_56!](https://github.com/Jupiter-56) 👋
+<br/>
+<br/>
+<br/>
 
 - 🔭 I’m currently working on **LapizCompleter**
 - 🌱 I’m currently learning **HTML and CSS**
