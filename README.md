@@ -19,6 +19,9 @@ I'm a French student. I learn to program on my own with online lesson like Youtu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
+
+*PS: Top languages does not indicate my skill level or something like that.*
+
 <br/>
 
 <a href="https://github.com/jupiter-56">
