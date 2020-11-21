@@ -6,6 +6,7 @@ I'm a French student. I learn to program on my own with online lesson like Youtu
 
 <br/>
 - 🔭 I’m currently working on **LapizCompleter**
+<br/>
 - 🌱 I’m currently learning **HTML and CSS**
 
 
