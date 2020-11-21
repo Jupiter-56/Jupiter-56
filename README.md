@@ -2,6 +2,7 @@
 ### Hi, I'm [Jupiter_56!](https://github.com/Jupiter-56) 👋
 <br/>
 <br/>
+I'm a French student. I learn to program on my own with online lesson like Youtube videos or OpenClassroom.
 <br/>
 
 - 🔭 I’m currently working on **LapizCompleter**
