@@ -1,8 +1,7 @@
 
-### Hi, I'm [Jupiter_56!](https://github.com/Jupiter-56) 👋
+### Hi, I'm [Jupiter_56!](https://github.com/Jupiter-56) 👋         <p align="left"> <img src="https://komarev.com/ghpvc/?username=jupiter-56&color=blue&style=flat&label=Profile+view" alt="jupiter-56" /> </p>  
 <br/>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jupiter-56&color=blue&style=flat&label=Profile+view" alt="jupiter-56" /> </p>  
 
 I'm a French student. I learn to program on my own with online lesson like Youtube videos or OpenClassroom.
 
