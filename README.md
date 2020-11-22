@@ -1,8 +1,7 @@
 
 ### Hi, I'm [Jupiter_56!](https://github.com/Jupiter-56) 👋
 <a href="https://github.com/Jupiter-56">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jupiter-56&color=blue&style=flat&label=Profile+view" alt="jupiter-56" /> 
-  alt="Jupiter's profile views" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jupiter-56&color=blue&style=flat&label=Profile+view" alt="jupiter-56" />
 </a>  
 <br/>
 <br/>
