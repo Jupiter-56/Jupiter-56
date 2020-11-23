@@ -9,7 +9,7 @@
 I'm a French student. I learn to program on my own with online lesson like Youtube videos or OpenClassroom.
 
 
-- 🔭 I’m currently working on LapizCompleter
+- 🔭 I’m currently working on `a project
 
 - 🌱 I’m currently learning HTML and CSS
 
