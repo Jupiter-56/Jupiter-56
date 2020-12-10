@@ -23,7 +23,8 @@ I'm a French student. I learn to program on my own with online lesson like Youtu
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
-<code><img height="50"></code>
+<p> I </p>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
 
 
 
