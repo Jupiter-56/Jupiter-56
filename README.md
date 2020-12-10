@@ -16,15 +16,14 @@ I'm a French student. I learn to program on my own with online lesson like Youtu
 - 💬 Ask me about anything [here](https://github.com/Jupiter-56/Jupiter-56/issues)
 
 **Languages and Tools :**
-
+    -**Languages :**
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>I
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
-
+    -**Tools :**
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
 
 
 *PS: Top languages does not indicate my skill level or something like that.*
