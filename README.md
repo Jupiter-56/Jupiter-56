@@ -17,10 +17,13 @@ I'm a French student. I learn to program on my own with online lesson like Youtu
 
 **Languages and Tools :**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
+
 
 
 *PS: Top languages does not indicate my skill level or something like that.*
