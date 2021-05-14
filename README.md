@@ -9,7 +9,7 @@
 I'm a French student. I learn to code on my own with online lesson like Youtube videos or OpenClassroom.
 
 
-- 🔭 I’m currently working on `a new version of the Furnace Plugin`
+- 🔭 I’m currently working on `a new Plugin`
 
 - 🌱 I’m currently learning HTML and CSS
 
