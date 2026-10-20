@@ -23,7 +23,7 @@ I'm a French student. I learn to code on my own with online lesson like Youtube 
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
+
 
 - **Tools :**
     
